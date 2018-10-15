@@ -18,16 +18,16 @@ i have very little english only with a dictionary
 
 Моя задача - УЧИТЬСЯ, Учиться и учиться, как завещал ...? ну и работать
 
-Во младенчестве советская школа № 2 и универ - только я все забыл
-Давным-давно - линейное функциональное программирование на мертвом ныне языке - PL/1, а также Fortran, Basic e.t.c
-Достаточно давно - ставил задачки и комплексы - разные ритаил финансы и другое
-Уже давно : Коммерция в России +  юрзащита
-Последнее:  rest on nature
+1. Во младенчестве советская школа № 2 и универ - только я все забыл
+2. Давным-давно - линейное функциональное программирование на мертвом ныне языке - PL/1, а также Fortran, Basic e.t.c
+3. Достаточно давно - ставил задачки и комплексы - разные ритаил финансы и другое
+4. Уже давно : Коммерция в России +  юрзащита
+5. Последнее:  rest on nature
 
 In English : 
-Want to learn may be KOTLIN 1.3 in Android 9.0 whit Android studio 3.3
-Needs help in learning from Community for faster learning
-Try to do something in FORK
+1. Want to learn may be KOTLIN 1.3 in Android 9.0 whit Android studio 3.3
+2. Needs help in learning from Community for faster learning
+3. Try to do something in FORK
 
 Delfina Afalina
 2018.10.15
